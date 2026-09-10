@@ -40,7 +40,7 @@ If you want to change target translation language, modify settings directly insi
 > 不要只拷贝 `read‑sci.md`，`references` 文件夹为运行依赖，必须完整下载。
 
 ## Repository structure
-ReAd/
+read‑sci/
 ├─  agents/
 │   └─  openai.yaml
 ├─  references/
