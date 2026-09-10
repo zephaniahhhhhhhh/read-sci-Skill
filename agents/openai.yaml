@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read SF"
+  short_description: "分三阶段翻译与解读科研论文，并维护可人工修订的共享术语库"
+  default_prompt: "Use $read-sf to read this scientific paper in three stages and maintain my shared terminology workbook."
